@@ -203,7 +203,7 @@ public class Battle extends Main{
                 System.out.println("\nA combination of every elements that exist envelops your weapon, you brace yourself");
                 System.out.println("on what's going to happen next, you're scared, but it's the only way...to end this");
 
-                System.out.println("\nAnwyll : \"Get ready to be wiped from this universe prick\"");
+                System.out.println("\nAnwyll : \"Get ready to be wiped from this universe\"");
             }
 
         }while(TAO.health > 0);
